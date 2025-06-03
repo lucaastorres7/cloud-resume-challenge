@@ -1,0 +1,24 @@
+{
+  "name": "cloud-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaastorres7/cloud-resume-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucaastorres7/cloud-resume-challenge/issues"
+  },
+  "homepage": "https://github.com/lucaastorres7/cloud-resume-challenge#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
